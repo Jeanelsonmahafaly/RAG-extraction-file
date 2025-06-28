@@ -20,3 +20,5 @@ pip install -r requirements.txt
 
 # 4-  Relancer l'application
 uvicorn src.extraction_file:app --reload --host 127.0.0.1 --port 8000
+
+
